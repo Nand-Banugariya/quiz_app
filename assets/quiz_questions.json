@@ -1,0 +1,469 @@
+{
+    "subjects": [
+      {
+        "name": "HTML",
+        "questions": [
+          {
+            "id": 1,
+            "question": "HTML stands for -",
+            "options": ["HighText Machine Language", "HyperText and links Markup Language", "HyperText Markup Language", "None of these"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 2,
+            "question": "The correct sequence of HTML tags for starting a webpage is -",
+            "options": ["Head, Title, HTML, body", "HTML, Body, Title, Head", "HTML, Head, Title, Body", "HTML, Title, Head, Body"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 3,
+            "question": "Which of the following element is responsible for making the text bold in HTML?",
+            "options": ["<pre>", "<a>", "<b>", "<br>"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 4,
+            "question": "Which tag is used to create a hyperlink in HTML?",
+            "options": ["<link>", "<a>", "<href>", "<hyperlink>"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 5,
+            "question": "To create a new paragraph in an HTML document, which tag is used?",
+            "options": ["<br>", "<p>", "<nl>", "<para>"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 6,
+            "question": "HTML comments are written with which syntax?",
+            "options": ["<!-- Comment -->", "// Comment //", "/* Comment */", "# Comment #"],
+            "correctOption": 1,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 7,
+            "question": "Which of the following HTML elements is used for creating an unordered list?",
+            "options": ["<ui>", "<i>", "<ul>", "<ol>"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 8,
+            "question": "Which HTML element defines the title of a document?",
+            "options": ["<meta>", "<title>", "<head>", "<header>"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 9,
+            "question": "Which element is used in HTML to create a dropdown list?",
+            "options": ["<list>", "<select>", "<dropdown>", "<option>"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 10,
+            "question": "What is the purpose of the <div> tag in HTML?",
+            "options": ["For creating Different sections", "For creating a dialogue box", "For creating a division in the document", "None of the above"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 11,
+            "question": "Which tag is used to insert an image in an HTML page?",
+            "options": ["<img>", "<image>", "<pic>", "<picture>"],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 12,
+            "question": "Which attribute is used to provide a unique identifier for an HTML element?",
+            "options": ["class", "id", "type", "name"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 13,
+            "question": "What HTML element is used for specifying a footer for a document or section?",
+            "options": ["<footer>", "<bottom>", "<section>", "<foot>"],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 14,
+            "question": "Which element is used to represent the navigation links in a website?",
+            "options": ["<nav>", "<navigate>", "<links>", "<navbar>"],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 15,
+            "question": "In HTML5, which element is used to group together related elements, typically to format them with CSS?",
+            "options": ["<group>", "<div>", "<section>", "<block>"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 16,
+            "question": "Which of the following elements are all <table> elements?",
+            "options": ["<table><tr><td>", "<table><tr><tt>", "<table><tb><td>", "<thead><body><tr>"],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 17,
+            "question": "How can you make a numbered list?",
+            "options": ["<dl>", "<ol>", "<list>", "<ul>"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 18,
+            "question": "Which HTML tag is used to define an embedded object?",
+            "options": ["<embed>", "<object>", "<applet>", "<iframe>"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 19,
+            "question": "What is the correct HTML element for inserting a line break?",
+            "options": ["<break>", "<lb>", "<br>", "<line>"],
+            "correctOption": 3,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 20,
+            "question": "Which of the following HTML elements is used for specifying metadata about the document, such as its title and link to its CSS file?",
+            "options": ["<meta>", "<link>", "<head>", "<config>"],
+            "correctOption": 3,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 21,
+            "question": "In HTML, which attribute is used to specify that an input field must be filled out?",
+            "options": ["placeholder", "required", "validate", "necessary"],
+            "correctOption": 2,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 22,
+            "question": "Which HTML tag is used to display a scalar measurement within a range?",
+            "options": ["<meter>", "<range>", "<measure>", "<gauge>"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 23,
+            "question": "Which tag in HTML is used to define an internal style sheet?",
+            "options": ["<script>", "<css>", "<style>", "<stylesheet>"],
+            "correctOption": 3,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 24,
+            "question": "What does the <fieldset> element do in an HTML form?",
+            "options": ["Groups related elements in a form", "Creates a set field for text input", "Automatically validates form fields", "None of the above"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 25,
+            "question": "What is the purpose of the 'alt' attribute in image tags?",
+            "options": [
+              "To provide a text alternative for search engines.",
+              "To make the image load faster.",
+              "To display alternate text when the image cannot be displayed.",
+              "To specify the alternative source for the image."
+            ],
+            "correctOption": 3,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 26,
+            "question": "Which HTML5 element is used to specify independent, self-contained content?",
+            "options": ["<article>", "<section>", "<details>", "<summary>"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 27,
+            "question": "Which of the following elements is not a valid HTML5 element?",
+            "options": ["<dialog>", "<shadow>", "<canvas>", "<audio>"],
+            "correctOption": 2,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 28,
+            "question": "What is the correct HTML element for playing video files?",
+            "options": ["<video>", "<media>", "<movie>", "<mp4>"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 29,
+            "question": "Which attribute is used in HTML to verify that the input data is in the correct format?",
+            "options": ["validate", "formcheck", "pattern", "verify"],
+            "correctOption": 3,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 30,
+            "question": "In HTML, how do you specify that an input field must be filled out before submitting the form?",
+            "options": [
+              "Use the 'placeholder' attribute.",
+              "Set the 'required' attribute on the input.",
+              "Use the 'validate' attribute.",
+              "Input fields are automatically required."
+            ],
+            "correctOption": 2,
+            "difficulty": "Hard"
+          }
+        ]
+      },
+      {
+        "name": "CSS",
+        "questions": [
+          {
+            "id": 1,
+            "question": "CSS stands for -",
+            "options": ["Cascade style sheets", "Color and style sheets", "Cascading style sheets", "None of the above"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 2,
+            "question": "Which of the following is the correct syntax for referring the external style sheet?",
+            "options": ["<style src = example.css>", "<style src = \"example.css\" >", "<stylesheet> example.css </stylesheet>", "<link rel=\"stylesheet\" type=\"text/css\" href=\"example.css\">"],
+            "correctOption": 4,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 3,
+            "question": "The property in CSS used to change the background color of an element is -",
+            "options": ["bgcolor", "color", "background-color", "All of the above"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 4,
+            "question": "How do you insert a comment in a CSS file?",
+            "options": ["// this is a comment", "/* this is a comment */", "-- this is a comment --", "<!-- this is a comment -->"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 5,
+            "question": "Which CSS property controls the text size?",
+            "options": ["font-style", "text-size", "font-size", "text-style"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 6,
+            "question": "What does CSS stand for?",
+            "options": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 7,
+            "question": "Which property is used to change the font of an element?",
+            "options": ["font-weight", "font-style", "font-family", "text-style"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 8,
+            "question": "Which CSS property is used to change the font of an element?",
+            "options": ["font-style", "font-family", "text-style", "typeface"],
+            "correctOption": 2,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 9,
+            "question": "Which property is used to change the background color of a page?",
+            "options": ["bgcolor", "color", "background-color", "None of the above"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 10,
+            "question": "How do you apply a style for all <h1> elements?",
+            "options": ["h1.all { }", "all.h1 { }", "h1 { }", ".h1 { }"],
+            "correctOption": 3,
+            "difficulty": "Easy"
+          },
+          {
+            "id": 11,
+            "question": "How do you make each word in a text start with a capital letter?",
+            "options": ["text-transform:capitalize", "text-style:capitalize", "font-transform:capitalize", "You can't do that with CSS"],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 12,
+            "question": "Which CSS property controls the text alignment?",
+            "options": ["text-align", "font-align", "text-decoration", "font-style"],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 13,
+            "question": "What is the correct CSS syntax for making all the <span> elements bold?",
+            "options": ["span {text-size:bold;}", "span {font-weight:bold;}", "<span style=\"font-size:bold;\">", "span {text-style:bold;}"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 14,
+            "question": "How do you display hyperlinks without an underline?",
+            "options": ["a {decoration:no-underline;}", "a {text-decoration:none;}", "a {underline:none;}", "a {text-underline:none;}"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 15,
+            "question": "Which property is used to change the left margin of an element?",
+            "options": ["indent", "margin-left", "padding-left", "border-left"],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 16,
+            "question": "What does the 'display' property do in CSS?",
+            "options": [
+              "Changes the display order of elements.",
+              "Controls the type of rendering box used for an element.",
+              "Manages the visibility of an element without changing the layout.",
+              "Alters the color display of an element."
+            ],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 17,
+            "question": "Which property is used to create space between the element's border and inner content?",
+            "options": [
+              "spacing",
+              "margin",
+              "padding",
+              "border-gap"
+            ],
+            "correctOption": 3,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 18,
+            "question": "How do you select an element with id 'unique'?",
+            "options": [
+              "#unique",
+              ".unique",
+              "unique",
+              "*unique"
+            ],
+            "correctOption": 1,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 19,
+            "question": "Which property is used to change the font of an element?",
+            "options": [
+              "font-style",
+              "font-family",
+              "text-style",
+              "text-font"
+            ],
+            "correctOption": 2,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 20  ,
+            "question": "How do you apply a style for all <h1> elements inside <article> elements?",
+            "options": [
+              "article + h1 { }",
+              "article.h1 { }",
+              "article h1 { }",
+              "article - h1 { }"
+            ],
+            "correctOption": 3,
+            "difficulty": "Medium"
+          },
+          {
+            "id": 21,
+            "question": "How do you make a list that lists its items with squares?",
+            "options": ["list-style-type: square;", "list-type: square;", "list: square;", "list-style: square;"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 22,
+            "question": "Which property is used to change the background color?",
+            "options": ["color", "background-color", "bgcolor", "All of the above"],
+            "correctOption": 2,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 23,
+            "question": "How do you add a background color for all <h1> elements?",
+            "options": ["all.h1 {background-color:#FFFFFF;}", "h1.all {background-color:#FFFFFF;}", "h1 {background-color:#FFFFFF;}", "h1 {background:#FFFFFF;}"],
+            "correctOption": 3,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 24,
+            "question": "Which CSS property is used to control the text size of an element?",
+            "options": ["font-style", "text-style", "font-size", "text-size"],
+            "correctOption": 3,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 25,
+            "question": "What CSS property is used to specify the stacking order of elements?",
+            "options": ["z-index", "stack", "order", "layer"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 26,
+            "question": "Which of the following defines a flexible container that can expand to hold its contents?",
+            "options": ["flexbox", "flex-container", "box-flex", "flex-wrap"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 27,
+            "question": "What is the correct syntax to select all <p> elements directly inside a <div> element?",
+            "options": ["div + p {}", "div > p {}", "div p {}", "div.p {}"],
+            "correctOption": 2,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 28,
+            "question": "Which property is used to create space between the element's border and inner content?",
+            "options": ["padding", "margin", "border", "spacing"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 29,
+            "question": "How can you create a transition effect for the width property, to change over 2 seconds?",
+            "options": ["transition: width 2s;", "width-transition: 2s;", "animate: width 2s;", "width: transition 2s;"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          },
+          {
+            "id": 30,
+            "question": "Which CSS property introduces a graphical effect like blurring or color shifting to an element?",
+            "options": ["filter", "blur", "effect", "shift"],
+            "correctOption": 1,
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  }
